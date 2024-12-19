@@ -1,5 +1,8 @@
 ramya valmiki
 cse 3rd sem
+<<<<<<< HEAD
 acharya
 ....
 ,,,,
+=======
+>>>>>>> parent of 3245ab7 (3nd commit)
